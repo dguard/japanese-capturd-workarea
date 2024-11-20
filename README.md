@@ -759,3 +759,4 @@ and we have pointer at head and pencil at knot <-
 
 pencil updates itself from updates-stack (1) and from pencil from bind-updates (2) and "it" packaged into bind-updates. pointer into bind-updates. <-
 
+# japanese-capturd-workarea
